@@ -13,7 +13,7 @@ configuraciones basicas para trabajar con frameworb de Django
 - 8 Seleccionar inteprete de python --> Presione F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 Instalar Django --> python -m pip install django
-- 11 Crear el proyecto --> django-admin startproject webzapateria_proy .
+- 11 Crear el proyecto --> django-admin startproject webzapateria_proy .  o  python -m django startproject myproject .
 - 12 Realizar migracion al proyect --> python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
 - Trabajo el proyecto
