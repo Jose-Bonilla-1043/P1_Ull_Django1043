@@ -18,6 +18,8 @@ configuraciones basicas para trabajar con frameworb de Django
 - 13 Ejecutar servidor --> python manage.py runserver
 - Trabajo el proyecto
 
+- Crear app --> python manage.py startapp webzapateria_proy
+
 
 
 
