@@ -17,8 +17,11 @@ configuraciones basicas para trabajar con frameworb de Django
 - 12 Realizar migracion al proyect --> python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
 - Trabajo el proyecto
-
+- Crear aplicacion
 - Crear app --> python manage.py startapp webzapateria_proy
+- Realizar makemigrations
+- python manage.py makemigrations zapateria_app
+
 
 
 
