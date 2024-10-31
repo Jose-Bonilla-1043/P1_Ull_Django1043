@@ -21,8 +21,8 @@ configuraciones basicas para trabajar con frameworb de Django
 - Crear app --> python manage.py startapp webzapateria_proy
 - Realizar makemigrations
 - python manage.py makemigrations zapateria_app
-
-
+- Crear usuario
+- py manage.py createsuperuser
 
 
 
